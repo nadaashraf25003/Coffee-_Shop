@@ -5,6 +5,7 @@
     --forth:#FFFFFF;
     --fifth:#543f2a;
 }
+
 :root{
     --color-white: #fff;
     --main-color: #c7a17a;
@@ -1010,5 +1011,6 @@ footer a.mail:hover{
         height: 4rem;;
     }
 }
+
 
 /* Footer end */
